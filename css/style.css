@@ -5,7 +5,32 @@ header{
 main{
     background-color: pink;
 }
+footer{
+    height: 100px;
+    background-color: #2C3E50;
+}
 .start{
     height: 500px;
     background-color: #1ABC9C;
+}
+.portfolio{
+    height: 800px;
+    background-color: white;
+}
+.about{
+    height: 500px;
+    background-color: #1ABC9C;
+}
+.contact-me{
+    height: 500px;
+    background-color: white;
+}
+.location{
+    height: 500px;
+    background-color: #3A546D;
+}
+.images{
+    height: 200px;
+    width: 200px;
+    border: dashed 2px red;
 }
