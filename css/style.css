@@ -5,3 +5,7 @@ header{
 main{
     background-color: pink;
 }
+.start{
+    height: 500px;
+    background-color: #1ABC9C;
+}
