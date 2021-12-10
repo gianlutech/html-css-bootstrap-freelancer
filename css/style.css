@@ -1,20 +1,16 @@
-header{
-    height: 100px;
+.bg-dark-blue{
     background-color: #2C3E50;
 }
-main{
-    background-color: pink;
+.footer-top{
+    min-height: 300px;
 }
-footer{
-    height: 100px;
-    background-color: #2C3E50;
+.footer-bottom{
+    min-height: 100px;
 }
 .start{
-    height: 500px;
     background-color: #1ABC9C;
 }
 .portfolio{
-    height: 800px;
     background-color: white;
 }
 .about{
