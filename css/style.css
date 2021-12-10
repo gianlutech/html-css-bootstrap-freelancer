@@ -1,6 +1,9 @@
 .bg-dark-blue{
     background-color: #2C3E50;
 }
+.bg-blue{
+    background-color: #3A546D;
+}
 .footer-top{
     min-height: 300px;
 }
@@ -14,11 +17,9 @@
     background-color: white;
 }
 .about{
-    height: 500px;
     background-color: #1ABC9C;
 }
 .contact-me{
-    height: 500px;
     background-color: white;
 }
 .location{
@@ -29,4 +30,13 @@
     height: 200px;
     width: 200px;
     border: dashed 2px red;
+}
+.row{
+    border: dashed 2px red;
+}
+.col{
+    border: solid 2px blue;
+}
+.col-12{
+    border: solid 2px blue;
 }
