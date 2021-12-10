@@ -26,17 +26,9 @@
     height: 500px;
     background-color: #3A546D;
 }
-.images{
-    height: 200px;
-    width: 200px;
-    border: dashed 2px red;
-}
-.row{
-    border: dashed 2px red;
-}
-.col{
-    border: solid 2px blue;
-}
-.col-12{
-    border: solid 2px blue;
+
+
+
+.star{
+    font-size: 50px;
 }
