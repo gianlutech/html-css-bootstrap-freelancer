@@ -4,6 +4,13 @@
 .bg-blue{
     background-color: #3A546D;
 }
+.btn-green{
+    background-color: #1ABC9C;
+    border-color: #1ABC9C;
+}
+.text-green{
+    color: #1ABC9C;
+}
 .footer-top{
     min-height: 300px;
 }
@@ -19,15 +26,19 @@
 .about{
     background-color: #1ABC9C;
 }
-.contact-me{
-    background-color: white;
+.contact-me .form-control{
+    border-radius: 0;
+    border-width: 0 0 1px 0;
+
 }
 .location{
     height: 500px;
     background-color: #3A546D;
 }
 
-
+#boy{
+    height: 400px;
+}
 
 .star{
     font-size: 50px;
